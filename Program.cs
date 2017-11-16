@@ -31,6 +31,7 @@ namespace ConsoleTestApp
 			#endregion
 
 			Console.ReadKey();
+			// Commit on GitHub testing
 		}
 
 		#region Yield
